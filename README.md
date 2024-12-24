@@ -13,7 +13,7 @@ A modern, Redux-powered e-commerce application built with React.js that provides
 
 ## 🚀 Live Demo
 
-[Visit ShopEase](https://shop-ease.vercel.app)
+[Visit ShopEase](https://shopapp-using-redux.vercel.app/)
 
 ## 💻 Technologies Used
 
